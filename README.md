@@ -13,3 +13,25 @@ IoT 개발자 과정 데이터베이스 - MySQL
     - DB 모델링
     - MySQL 유틸리티
     - SQL 기본
+
+
+# 3일차
+1. MySQL 학습
+    - SQL 기본 CRUD
+        - INSERT
+        - SELECT
+        - UPDATE
+        - DELETE
+    - SQL 고급
+        - 데이터형식
+        - 내장함수
+        - JOIN
+
+# 4일차
+1. MySQL 학습
+    - SQL 고급
+        - JOIN
+        - 테이블 / 뷰
+        - 인덱스
+2. MySQL 활용
+    - BookRentalShop 쿼리 연습
